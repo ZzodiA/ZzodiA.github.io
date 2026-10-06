@@ -3,12 +3,12 @@ body {
   font-size: 18px;
   line-height: 1.5;
   color: #000000;
-  background-color: #800000;
+  background-color: #F4A460;
   margin: 15;
   padding: 20px;
 }
 
-h1 {
+h {
   color: #ffffff; /* Цвет заголовка */
   text-align: center; /* Центровка заголовка */
 }
